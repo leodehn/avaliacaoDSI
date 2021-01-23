@@ -1,0 +1,10 @@
+Singleton - garante que execute apenas uma instancia de uma classe
+
+
+MVC - M (Model) - Modelo
+	  V (View)  - Interface Grafica (Visualizacao)
+	  C (Controller) - Controlador
+
+
+DAO - Data Access Object - Classe responsavel por acessar os dados de uma tabela
+na base de dados
